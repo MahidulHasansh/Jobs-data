@@ -1,0 +1,464 @@
+[
+    {
+        "id": "676f61db-b54f-4128-b41e-bb977662f57e",
+        "title": "Software Development Manager",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "150,000 - 200,000 USD per year",
+        "experiences": "10+ years of experience in software development",
+        "responsibility": "Lead and manage a team of software developers, develop and maintain scalable and reliable software systems, and collaborate with cross-functional teams.",
+        "description": "We are seeking an experienced Software Development Manager to lead our software development efforts. The ideal candidate will have a strong technical background, as well as excellent leadership and communication skills.",
+        "contactInfo": {
+            "email": "recruiting@amazon.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.amazon.jobs/en/teams/software-development"
+        },
+        "companyLogo": "https://thumbs.dreamstime.com/b/simple-vector-filled-flat-amazon-icon-logo-solid-black-pictogram-isolated-white-background-amazon-logo-159029074.jpg",
+        "companyLocation": "Seattle, WA, USA",
+        "companyName": "Amazon"
+    },
+    {
+        "id": "7fee5ebc-d287-4b8f-9361-a4f9a2eded83",
+        "title": "Senior Product Manager",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "130,000 - 170,000 USD per year",
+        "experiences": "7-10 years of experience in product management",
+        "responsibility": "Develop and execute product strategies, collaborate with cross-functional teams, and analyze and report on product performance.",
+        "description": "We are seeking an experienced Senior Product Manager to lead our product management efforts. The ideal candidate will have a strong understanding of the software development lifecycle, as well as excellent leadership and communication skills.",
+        "contactInfo": {
+            "email": "careers@apple.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.apple.com/jobs/us/teams/software-engineering.html"
+        },
+        "companyLogo": "https://cdn.freebiesupply.com/logos/thumbs/2x/apple-logo.png",
+        "companyLocation": "Cupertino, CA, USA",
+        "companyName": "Apple"
+    },
+    {
+        "id": "486d377e-7269-468e-96e5-6423fa0f8c0b",
+        "title": "Cloud Solutions Architect",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "120,000 - 160,000 USD per year",
+        "experiences": "5+ years of experience in data science",
+        "responsibility": "Develop and implement data-driven solutions, analyze and interpret complex data sets, and collaborate with cross-functional teams.",
+        "description": "We are seeking a talented Data Scientist to join our team. The ideal candidate will have strong technical skills in data science and excellent problem-solving and communication skills.",
+        "contactInfo": {
+            "email": "careers@ibm.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.ibm.com/employment/data-scientist-jobs"
+        },
+        "companyLogo": "https://www.freepnglogos.com/uploads/ibm-logo-png/ibm-logo-cru-repair-louis-9.png",
+        "companyLocation": "Armonk, NY, USA",
+        "companyName": "IBM"
+    },
+    {
+        "id": "239a01df-7b16-42d9-8185-2a441d45222a",
+        "title": "Mobile Application Developer",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "100,000 - 130,000 USD per year",
+        "experiences": "3+ years of experience in mobile app development",
+        "responsibility": "Design and develop mobile applications, perform code reviews, and collaborate with cross-functional teams.",
+        "description": "We are looking for a skilled Mobile Application Developer to join our team. The ideal candidate will have experience in mobile app development and a passion for building innovative solutions.",
+        "contactInfo": {
+            "email": "careers@apple.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.apple.com/jobs/us/corporate.html#geo-select"
+        },
+        "companyLogo": "https://cdn.freebiesupply.com/logos/thumbs/2x/apple-logo.png",
+        "companyLocation": "Cupertino, CA, USA",
+        "companyName": "Apple"
+    },
+    {
+        "id": "e18632e3-9ea5-4862-88e8-cd3b97ccde21",
+        "title": "Cloud Engineer",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Remote"
+        ],
+        "salary": "120,000 - 150,000 USD per year",
+        "experiences": "5+ years of experience in data science",
+        "responsibility": "Extract and analyze data, develop predictive models, and communicate insights to stakeholders.",
+        "description": "We are seeking a talented Data Scientist to join our team. The ideal candidate will have a strong background in data science and be able to extract actionable insights from complex data sets.",
+        "contactInfo": {
+            "email": "careers@google.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://careers.google.com/jobs/results/6081939093305856-data-scientist/"
+        },
+        "companyLogo": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+        "companyLocation": "Mountain View, CA, USA",
+        "companyName": "Google"
+    },
+    {
+        "id": "3a197b25-80fb-4670-9189-0ca6429a0cce",
+        "title": "Network Engineer",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "90,000 - 120,000 USD per year",
+        "experiences": "3+ years of experience in network engineering",
+        "responsibility": "Design and implement network infrastructure, troubleshoot network issues, and maintain network security.",
+        "description": "We are looking for a skilled Network Engineer to join our team. The ideal candidate will have experience in network engineering and be able to design and implement reliable network solutions. In this role, you will be responsible for designing and implementing network infrastructure, troubleshooting network issues, and maintaining network security. This is a full-time, onsite position with a salary range of 90,000 - 120,000 USD per year.",
+        "companyName": "Cisco Systems",
+        "companyLocation": "San Jose, CA",
+        "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/2560px-Cisco_logo_blue_2016.svg.png",
+        "contactInfo": {
+            "email": "careers@cisco.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.cisco.com/c/en/us/about/careers.html"
+        }
+    },
+    {
+        "id": "b4a1f9d5-0f93-4e50-b828-8009c9044fb1",
+        "title": "Artificial Intelligence Engineer",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Remote"
+        ],
+        "salary": "120,000 - 160,000 USD per year",
+        "experiences": "5+ years of experience in AI and machine learning",
+        "responsibility": "Design and develop AI models and applications, analyze data sets, and collaborate with cross-functional teams.",
+        "description": "We are seeking an experienced Artificial Intelligence Engineer to join our team. The ideal candidate will have a deep understanding of AI and machine learning and be able to design and develop innovative AI models and applications. In this role, you will analyze large data sets and work closely with cross-functional teams to deliver AI-driven solutions. This is a full-time, remote position with a salary range of 120,000 - 160,000 USD per year.",
+        "companyName": "Google",
+        "companyLocation": "Mountain View, CA",
+        "companyLogo": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+        "contactInfo": {
+            "email": "careers@google.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://careers.google.com/"
+        }
+    },
+    {
+        "id": "cb76d93e-c2b7-4ebf-862b-b49524e87e54",
+        "title": "Artificial Intelligence Engineer",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "100,000 - 150,000 USD per year",
+        "experiences": "5+ years of experience in artificial intelligence and machine learning",
+        "responsibility": "Design and develop machine learning models and algorithms to solve business problems.",
+        "description": "We are looking for a skilled Artificial Intelligence Engineer to join our team. The ideal candidate will have extensive experience in artificial intelligence and machine learning and be able to apply this expertise to business problems.",
+        "contactInfo": {
+            "email": "careers@ibm.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.ibm.com/employment/"
+        },
+        "companyLogo": "https://www.freepnglogos.com/uploads/ibm-logo-png/ibm-logo-cru-repair-louis-9.png",
+        "companyLocation": "Armonk, New York",
+        "companyName": "IBM"
+    },
+    {
+        "id": "557f1aa7-2cae-4a31-b2b7-413b1b336808",
+        "title": "Cloud Solutions Architect",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Remote"
+        ],
+        "salary": "120,000 - 160,000 USD per year",
+        "experiences": "7+ years of experience in cloud computing and architecture",
+        "responsibility": "Design and implement cloud solutions to meet business needs.",
+        "description": "We are seeking a skilled Cloud Solutions Architect to join our team. The ideal candidate will have extensive experience in cloud computing and architecture and be able to design and implement cloud solutions that meet the needs of the business.",
+        "contactInfo": {
+            "email": "careers@amazon.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.amazon.jobs/"
+        },
+        "companyLogo": "https://thumbs.dreamstime.com/b/simple-vector-filled-flat-amazon-icon-logo-solid-black-pictogram-isolated-white-background-amazon-logo-159029074.jpg",
+        "companyLocation": "Seattle, WA, USA",
+        "companyName": "Amazon"
+    },
+    {
+        "id": "aa6933ac-957b-4458-96d2-3caf3680bae4",
+        "title": "Cybersecurity Analyst",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "80,000 - 100,000 USD per year",
+        "experiences": "3+ years of experience in cybersecurity",
+        "responsibility": "Monitor computer networks and systems for security breaches, investigate security incidents, and develop security policies.",
+        "description": "We are looking for a skilled Cybersecurity Analyst to join our team. The ideal candidate will have experience in cybersecurity and be able to monitor and investigate security incidents, as well as develop security policies to prevent future incidents.",
+        "contactInfo": {
+            "email": "careers@symantec.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.symantec.com/careers"
+        },
+        "companyLogo": "https://1000logos.net/wp-content/uploads/2020/08/Symantec-Logo.png",
+        "companyLocation": " Mountain View, CA",
+        "companyName": "Symantec"
+    },
+    {
+        "id": "dbe709fb-d6c2-4d73-9815-78d6fceeba5c",
+        "title": "Front-End Developer",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Remote"
+        ],
+        "salary": "70,000 - 100,000 USD per year",
+        "experiences": "3+ years of experience in front-end development",
+        "responsibility": "Develop and maintain front-end of web applications, collaborate with back-end developers to integrate with APIs, and ensure high performance and responsiveness of web pages.",
+        "description": "We are seeking a highly skilled Front-End Developer to join our team. The ideal candidate should have experience with modern front-end frameworks and technologies such as React, Vue.js, or Angular, and be passionate about creating beautiful and responsive web applications.",
+        "contactInfo": {
+            "email": "jobs@amazon.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.amazon.jobs/en/"
+        },
+        "companyLogo": "https://thumbs.dreamstime.com/b/simple-vector-filled-flat-amazon-icon-logo-solid-black-pictogram-isolated-white-background-amazon-logo-159029074.jpg",
+        "companyLocation": "Seattle, WA",
+        "companyName": "Amazon"
+    },
+    {
+        "id": "cbb9f97f-07f7-4bb6-b2fe-dcb52fb59e46",
+        "title": "UI/UX Designer",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Remote"
+        ],
+        "salary": "60,000 - 90,000 USD per year",
+        "experiences": "3+ years of experience in UI/UX design",
+        "responsibility": "Design and improve user interfaces and experiences for digital products and services, conduct user research and testing to inform design decisions, collaborate with cross-functional teams to ensure design alignment with product goals and objectives.",
+        "description": "We are seeking an experienced UI/UX Designer to join our team. The ideal candidate will be passionate about creating intuitive, visually appealing, and user-friendly designs for digital products and services. They will be a self-starter who is comfortable working in a fast-paced environment with multiple stakeholders.",
+        "contactInfo": {
+            "email": "careers@adobe.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.adobe.com/careers.html"
+        },
+        "companyLogo": "https://1000logos.net/wp-content/uploads/2021/04/Adobe-logo.png",
+        "companyName": "Adobe",
+        "companyLocation": "San Jose, CA, USA"
+    },
+    {
+        "id": "99be0f8a-1568-43a5-9cdf-545d20eb1538",
+        "title": "Cloud Security Engineer",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "100,000 - 140,000 USD per year",
+        "experiences": "5+ years of experience in cloud security engineering",
+        "responsibility": "Develop and implement cloud security strategies, assess and mitigate security risks, monitor and maintain cloud security systems and protocols.",
+        "description": "We are looking for a highly skilled Cloud Security Engineer to join our team. The ideal candidate will have extensive knowledge of cloud security and experience in developing and implementing effective security strategies for cloud-based systems.",
+        "contactInfo": {
+            "email": "careers@amazon.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.amazon.jobs/"
+        },
+        "companyLogo": "https://thumbs.dreamstime.com/b/simple-vector-filled-flat-amazon-icon-logo-solid-black-pictogram-isolated-white-background-amazon-logo-159029074.jpg",
+        "companyName": "Amazon",
+        "companyLocation": "Seattle, WA, USA"
+    },
+    {
+        "id": "ff29c7bc-46af-49da-a362-c67f3ce06859",
+        "title": "Machine Learning Engineer",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "120,000 - 160,000 USD per year",
+        "experiences": "5+ years of experience in machine learning engineering",
+        "responsibility": "Design and develop machine learning models, optimize and maintain machine learning systems, collaborate with data scientists and software engineers to integrate machine learning solutions into products.",
+        "description": "We are seeking an experienced Machine Learning Engineer to join our team. The ideal candidate will be passionate about building machine learning solutions and have a strong background in mathematics, statistics, and programming.",
+        "contactInfo": {
+            "email": "careers@google.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://careers.google.com/"
+        },
+        "companyLogo": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+        "companyName": "Google",
+        "companyLocation": "Mountain View, CA, USA"
+    },
+    {
+        "id": "7b66eca2-e014-40e0-a483-4f0c275f81f0",
+        "title": "iOS Developer",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "80,000 - 120,000 USD per year",
+        "experiences": "3+ years of experience in iOS development",
+        "responsibility": "Design and develop iOS applications, fix bugs and improve application performance.",
+        "description": "We are seeking an experienced iOS Developer to join our team. The ideal candidate should have a strong background in iOS development, be familiar with Swift and Objective-C, and be able to work independently and as part of a team.",
+        "contactInfo": {
+            "email": "careers@apple.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.apple.com/careers/"
+        },
+        "companyLogo": "https://cdn.freebiesupply.com/logos/thumbs/2x/apple-logo.png",
+        "companyLocation": "Cupertino, California",
+        "companyName": "Apple Inc."
+    },
+    {
+        "id": "fdede168-e9e3-45e2-aede-380f416c95ac",
+        "title": "Software Development Engineer",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Remote"
+        ],
+        "salary": "120,000 - 150,000 USD per year",
+        "experiences": "5+ years of experience in software development",
+        "responsibility": "Design and develop software applications, participate in code reviews, and ensure software quality and performance.",
+        "description": "We are seeking a highly skilled Software Development Engineer to join our dynamic team. The ideal candidate will have strong knowledge of software development principles and be able to write clean, maintainable code.",
+        "contactInfo": {
+            "email": "careers@amazon.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.amazon.jobs/"
+        },
+        "companyLogo": "https://thumbs.dreamstime.com/b/simple-vector-filled-flat-amazon-icon-logo-solid-black-pictogram-isolated-white-background-amazon-logo-159029074.jpg",
+        "companyLocation": "Seattle, WA",
+        "companyName": "Amazon"
+    },
+    {
+        "id": "6fa48789-978b-4e05-a72a-aa70306f3606",
+        "title": "Spacecraft Mechanical Design Engineer",
+        "category": "Aerospace",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "Competitive",
+        "experiences": "5+ years of experience in spacecraft mechanical design",
+        "responsibility": "Lead spacecraft mechanical design efforts, develop mechanical requirements and interfaces, perform design reviews, and oversee fabrication and testing.",
+        "description": "We are seeking a highly motivated spacecraft mechanical design engineer to join our team. The ideal candidate will have experience in spacecraft mechanical design and a passion for working on cutting-edge technology.",
+        "contactInfo": {
+            "email": "careers@spacex.com",
+            "phone": "+1 (310) 363-6000",
+            "website": "https://www.spacex.com/careers/"
+        },
+        "companyLogo": "https://cdn.freebiesupply.com/logos/thumbs/2x/spacex-logo.png",
+        "companyLocation": "Hawthorne, California",
+        "companyName": "Space Exploration Technologies Corp."
+    },
+    {
+        "id": "f631b458-cc83-490b-981c-44c751788ef3",
+        "title": "Starlink Satellite Software Engineer",
+        "category": "Engineering",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "120,000 - 150,000 USD per year",
+        "experiences": "5+ years of experience in software engineering",
+        "responsibility": "Develop and maintain software for the Starlink satellite network.",
+        "description": "We are looking for a skilled software engineer to join our team working on the Starlink satellite network. The ideal candidate will have experience in software development and be familiar with satellite communication protocols and systems.",
+        "contactInfo": {
+            "email": "careers@spacex.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.spacex.com/careers"
+        },
+        "companyLogo": "https://cdn.freebiesupply.com/logos/thumbs/2x/spacex-logo.png",
+        "companyName": "Space Exploration Technologies Corp.",
+        "companyLocation": "Hawthorne, California"
+    },
+    {
+        "id": "03402117-88f1-42b0-a6da-51ef0fcd2f16",
+        "title": "Aerospace Engineer",
+        "category": "Engineering",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "100,000 - 150,000 USD per year",
+        "experiences": "5+ years of experience in aerospace engineering",
+        "responsibility": "Design and test spacecraft and propulsion systems, analyze and optimize performance, collaborate with cross-functional teams to develop new technologies.",
+        "description": "We are looking for an experienced Aerospace Engineer to join our team at Blue Origin. The ideal candidate will have a deep understanding of spacecraft and propulsion systems, and be able to apply this knowledge to develop innovative solutions.",
+        "contactInfo": {
+            "email": "careers@blueorigin.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.blueorigin.com/careers"
+        },
+        "companyLogo": "https://logolook.net/wp-content/uploads/2021/01/Blue-Origin-Emblem.png",
+        "companyLocation": "Kent, Washington, USA",
+        "companyName": "Blue Origin"
+    },
+    {
+        "id": "ac8c020e-0526-4503-8b50-81c1cd9946e0",
+        "title": "Hardware Engineer",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "100,000 - 140,000 USD per year",
+        "experiences": "5+ years of experience in hardware engineering",
+        "responsibility": "Design and develop high-performance computer hardware, test and evaluate hardware prototypes, and work with software engineers to integrate hardware and software.",
+        "description": "We are seeking a highly skilled Hardware Engineer to join our team. The ideal candidate will have experience in computer hardware design, strong problem-solving skills, and the ability to work in a team environment.",
+        "contactInfo": {
+            "email": "careers@intel.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html"
+        },
+        "companyLogo": "https://companieslogo.com/img/orig/INTC-12074943.png?t=1633221777",
+        "companyLocation": "Santa Clara, CA",
+        "companyName": "Intel Corporation"
+    },
+    {
+        "id": "4081a91c-2658-425b-b29f-849431a7cb4b",
+        "title": "Machine Learning Researcher",
+        "category": "IT",
+        "types": [
+            "Full-Time",
+            "Remote"
+        ],
+        "salary": "150,000 - 200,000 USD per year",
+        "experiences": "5+ years of experience in machine learning and artificial intelligence",
+        "responsibility": "Design and conduct research in machine learning and artificial intelligence, develop and implement new algorithms, and publish findings in academic papers.",
+        "description": "OpenAI is seeking a highly skilled Machine Learning Researcher to join our team. The ideal candidate will have a strong background in machine learning and artificial intelligence, and a track record of conducting impactful research.",
+        "contactInfo": {
+            "email": "careers@openai.com",
+            "phone": "+1 (123) 456-7890",
+            "website": "https://www.openai.com/careers/"
+        },
+        "companyLogo": "https://cdn.cdnlogo.com/logos/o/29/OpenAI-Logo_800x800.png",
+        "companyLocation": "San Francisco, California, USA",
+        "companyName": "OpenAI"
+    },
+    {
+        "id": "af20ff5e-7152-4c35-a8f0-eeb2d5883678",
+        "title": "Embedded Software Engineer",
+        "category": "Engineering",
+        "types": [
+            "Full-Time",
+            "Onsite"
+        ],
+        "salary": "Negotiable",
+        "experiences": "3+ years of experience in embedded software development",
+        "responsibility": "Design, develop, test and maintain embedded software for unmanned aerial vehicles.",
+        "description": "We are seeking a talented Embedded Software Engineer to work on cutting-edge unmanned aerial vehicle (UAV) projects. The ideal candidate will have a strong background in embedded software development and experience with real-time operating systems (RTOS) and microcontrollers.",
+        "contactInfo": {
+            "email": "hr@baykaraerospace.com",
+            "phone": "+90 212 900 0791",
+            "website": "https://www.baykaraerospace.com/en"
+        },
+        "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BaykarLogo.png/1200px-BaykarLogo.png",
+        "companyLocation": "Istanbul, Turkey",
+        "companyName": "Baykar"
+    }
+]
